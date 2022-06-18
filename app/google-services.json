@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "82042965520",
+    "project_id": "frage-des-tages-615f6",
+    "storage_bucket": "frage-des-tages-615f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82042965520:android:0c0f5bc755cdfa7f240495",
+        "android_client_info": {
+          "package_name": "com.example.fragedestages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82042965520-pa7qfs1let6vcb51gvolp7kclkf32ev1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkIympnfxmp68t4SuatlCL4NN24jm3IgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82042965520-pa7qfs1let6vcb51gvolp7kclkf32ev1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

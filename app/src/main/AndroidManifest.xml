@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.fragedestages" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/Logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FrageDesTages" >
+        <activity
+            android:name=".FrageActivity"
+            android:exported="false" />
+        <activity
+            android:name=".List_pro"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".ActShowHelp" />
+        <activity android:name=".ActShowContact" />
+
+    </application>
+
+</manifest>
